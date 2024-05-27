@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://snek.at/" target="_blank" rel="noopener noreferrer">
+  <a href="https://netsnek.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://avatars2.githubusercontent.com/u/55870326?s=400&u=c6c7f06305ddc94747d474850fde7b2044f53838&v=4" alt="SNEK Logo" height="150">
   </a>
 </p>
@@ -27,4 +27,4 @@ be high on both sides of the process. Try to keep in mind the immortal
 words of Bill and Ted, "Be excellent to each other."
 
 SPDX-License-Identifier: (EUPL-1.2)
-Copyright © 2019-2022 snek.at
+Copyright © 2019-2024 netsnek
